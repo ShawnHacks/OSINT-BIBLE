@@ -712,7 +712,6 @@ Following the withdrawal of Russian troops from Bucha (Ukraine) in March 2022, i
 | Stixify | Stixify | `https://www.stixify.com/` |
 | signature-base | signature-base | `https://github.com/Neo23x0/signature-base` |
 | Spamhaus | Spamhaus | `https://www.spamhaus.org/` |
-| Sophos Intelix | Sophos | `https://www.sophos.com/intelix` |
 | Spur | Spur | `https://spur.us` |
 | SSL Blacklist | SSL Blacklist | `https://sslbl.abuse.ch/` |
 | Statvoo | Statvoo | `https://statvoo.com/dl/top-1million-sites.csv.zip` |
