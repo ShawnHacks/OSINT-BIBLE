@@ -111,7 +111,7 @@ graph TD
 - [Baidu](https://baidu.com) → Asia
 - [Startpage](https://startpage.com) → no logs
 - [Shodan](https://shodan.io) → IoT, ICS, SCADA
-- [Censys](https://censys.io) → cert + banner
+- [Censys](https://censys.com/) → cert + banner
 - [FOFA](https://fofa.info) → China, free API
 - [BinaryEdge](https://binaryedge.io) → global scanning
 - [Hunter.io](https://hunter.io) → corporate emails
@@ -158,7 +158,7 @@ graph TD
 - [START Publications](https://www.start.umd.edu/publications) → terrorism publications
 - [SPLC Resources](https://www.splcenter.org/resources) → SPLC resources
 - [Tracking Terrorism](https://trackingterrorism.org) → terrorism tracking
-- [Mapping Militants](https://cisac.fsi.stanford.edu/mappingmilitants) → mapping militants
+- [Mapping Militants](https://mappingmilitants.org/) → mapping militants
 - [Naval Institute](https://news.usni.org) → naval news
 - [Institute of International Relations](https://www.iir.cz/en) → international relations
 - [Janes](https://www.janes.com) → defense intelligence
@@ -175,12 +175,12 @@ graph TD
 - [ResearchHub](https://www.researchhub.com) → research discussion
 - [IDCrawl](https://www.idcrawl.com) → people search
 - [Osint Industries](https://osint.industries) → email/phone search
-- [ESPY](http://espysys.com) → phone search
+- [ESPY](https://espysys.com/) → phone search
 - [SUNDERS](https://sunders.uber.space) → surveillance cameras
 - [Deepinfo](https://deepinfo.com) → internet intelligence
 - [Session](https://getsession.org) → private messaging
 - [Consortium News](https://consortiumnews.com) → independent journalism
-- [Tutanota](https://tutanota.com) → encrypted email
+- [Tutanota](https://tuta.com/) → encrypted email
 - [Committee to Protect Journalists](https://cpj.org) → journalist protection
 - [SecurityWeek](https://www.securityweek.com) → security news
 - [NCRI](https://networkcontagion.us) → network contagion research
@@ -192,7 +192,7 @@ graph TD
 - [VesselFinder](https://www.vesselfinder.com) → ship search
 - [NewspaperArchive](https://newspaperarchive.com) → newspaper archives
 - [The Indian Express](https://indianexpress.com) → Indian news
-- [Daily Excelsior](http://www.dailyexcelsior.com) → Jammu Kashmir news
+- [Daily Excelsior](https://www.dailyexcelsior.com/) → Jammu Kashmir news
 - [DNA India](https://www.dnaindia.com) → Indian news
 - [Greater Kashmir](https://www.greaterkashmir.com) → Kashmir news
 - [Nagaland Post](https://www.nagalandpost.com) → Nagaland news
@@ -215,11 +215,11 @@ graph TD
 - [Scumware](https://www.scumware.org) → malware research
 - [Ukraine Live Cams](https://nagix.github.io/ukraine-livecams) → Ukraine cameras
 - [TWN](http://www.the-webcam-network.com) → webcam network
-- [Opentopia](http://www.opentopia.com) → public webcams
+- [Opentopia](https://www.opentopia.com/) → public webcams
 - [Transparency](https://www.transparency.org) → anti-corruption
 - [Maigret](https://github.com/soxoj/maigret) → user search
 - [OCCRP](https://www.occrp.org/en) → organized crime
-- [Qdorks](https://qdorks.com) → dork generator
+- [Qdorks](https://qsourcer.com/qdorks) → dork generator
 - [Radio Garden](https://radio.garden) → world radios
 - [LolArchiver OSINT](https://osint.lolarchiver.com) → OSINT search
 - [BreachBase](https://breachbase.com) → breach base
@@ -276,7 +276,7 @@ graph TD
 5. **Facebook Search** - Link: [Facebook Search](https://www.sowsearch.info/) - Description: Allows you to search on Facebook for posts, people, photos, etc., using some filters.
 6. **Facebook Graph Searcher** - Link: [Facebook Graph Searcher](https://intelx.io/tools?tab=facebook) - Description: To search someone on Facebook.
 7. **Facebook People Search** - Link: [Facebook People Search](https://www.facebook.com/directory/people/) - Description: Search on Facebook by victim's name.
-8. **DumpItBlue** - Link: [DumpItBlue+](https://chrome.google.com/webstore/detail/dumpitblue%2B/igmgknoioooacbcpcfgjigbaajpelbfe/) - Description: helps to dump Facebook stuff for analysis or reporting purposes.
+8. **DumpItBlue** - Link: [DumpItBlue+](https://chromewebstore.google.com/detail/dumpitblue+/igmgknoioooacbcpcfgjigbaajpelbfe) - Description: helps to dump Facebook stuff for analysis or reporting purposes.
 9. **Export Comments** - Link: [Export Comments](https://exportcomments.com/) - Description: Easily exports all comments from your social media posts to Excel file.
 10. **Facebook Applications** - Link: [Facebook Applications](https://khalil-shreateh.com/khalil.shtml/social_applications/facebook-applications/) - Description: A collection of online tools that automate and facilitate Facebook.
 11. **Social Analyzer** - Link: [SocialAnalyzer - Social Sentiment & Analysis](https://chromewebstore.google.com/detail/socialanalyzer-social-sen/efeikkcpimdfpdlmlbjdecnmkknjcfcp) - Description: a free tool of social media monitoring and analysis.
@@ -342,9 +342,9 @@ graph TD
 20. **Xquik** - Link: [Xquik](https://xquik.com) - Description: 122 API endpoints for search, user, post and monitor. API key, USD 0.00015/read.
 
 ### 5.5 Pinterest
-1. **DownAlbum** - Link: [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok) - Description: Google Chrome extension for downloading albums of photos from various websites, including Pinterest.
+1. **DownAlbum** - Link: [DownAlbum](https://chromewebstore.google.com/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok) - Description: Google Chrome extension for downloading albums of photos from various websites, including Pinterest.
 2. **Experts PHP: Pinterest Photo Downloader** - Link: [Pinterest Photo Downloader](https://www.expertsphp.com/pinterest-photo-downloader.html) - Description: Website providing a tool to download photos from Pinterest.
-3. **Pingroupie** - Link: [Pingroupie](http://pingroupie.com) - Description: A Meta Search Engine for Pinterest that lets you discover Collaborative Boards, Influencers, Pins, and new Keywords.
+3. **Pingroupie** - Link: [Pingroupie](https://pingroupie.com/) - Description: A Meta Search Engine for Pinterest that lets you discover Collaborative Boards, Influencers, Pins, and new Keywords.
 4. **Tailwind** - Link: [Tailwind](https://www.tailwindapp.com) - Description: Social media scheduling and management tool that supports Pinterest.
 5. **Pinterest Guest** - Link: [Pinterest Guest](https://addons.mozilla.org/en-US/firefox/addon/pinterest-guest) - Description: Mozilla Firefox add-on for browsing Pinterest without logging in or creating an account.
 
@@ -354,17 +354,17 @@ graph TD
 3. **OSINT Combine: Reddit Post Analyzer** - Link: [OSINT Combine: Reddit Post Analyzer](https://www.osintcombine.com/tools) - Description: Analyze and gather information from Reddit posts for OSINT purposes.
 4. **Phantom Buster** - Link: [Phantom Buster](https://phantombuster.com/phantombuster?category=reddit) - Description: Automation tool suite that includes Reddit data extraction capabilities.
 5. **rdddeck** - Link: [rdddeck](https://rdddeck.com) - Description: Real-time dashboard for monitoring multiple Reddit communities.
-6. **Readr for Reddit** - Link: [Readr for Reddit](https://chrome.google.com/webstore/detail/readr-forreddit/molhdaofohigaepljchpmfablknhabmo) - Description: Google Chrome extension for an improved reading experience on Reddit.
+6. **Readr for Reddit** - Link: [Readr for Reddit](https://chromewebstore.google.com/detail/readr-for-reddit/molhdaofohigaepljchpmfablknhabmo) - Description: Google Chrome extension for an improved reading experience on Reddit.
 7. **Reddit Archive** - Link: [Reddit Archive](http://www.redditarchive.com) - Description: Archive of Reddit posts and comments for historical reference.
 8. **Reddit Comment Search** - Link: [Reddit Comment Search](https://redditcommentsearch.com) - Description: Search for specific comments and conversations on Reddit.
-9. **Redditery** - Link: [Redditery](http://www.redditery.com) - Description: Explore Reddit posts and comments based on various criteria.
+9. **Redditery** - Link: [Redditery](https://www.redditery.com/) - Description: Explore Reddit posts and comments based on various criteria.
 10. **Reddit Hacks** - Link: [Reddit Hacks](https://github.com/EdOverflow/hacks) - Description: Collection of Reddit hacks and tricks for advanced users.
-11. **Reddit List** - Link: [Reddit List](http://redditlist.com) - Description: Directory of popular subreddits organized by various categories.
+11. **Reddit List** - Link: [Reddit List](https://redditlist.com/) - Description: Directory of popular subreddits organized by various categories.
 12. **reddtip** - Link: [reddtip](https://www.redditp.com) - Description: Show appreciation to Reddit users by sending them tips in cryptocurrencies.
 13. **Reddit Search** - Link: [Reddit Search (realsrikar)](https://realsrikar.github.io/reddit-search) - Description: Various tools and websites for searching and discovering content on Reddit.
 14. **Reddit Shell** - Link: [Reddit Shell](https://redditshell.com) - Description: Command-line interface for browsing and interacting with Reddit.
 15. **Reddit Stream** - Link: [Reddit Stream](http://reddit-stream.com) - Description: Live-streaming of Reddit comments for real-time discussions.
-16. **Reddit Suite** - Link: [Reddit Enhancement Suite (Chrome Extension)](https://chrome.google.com/webstore/detail/redditenhancementsuite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - Description: Browser extension that enhances the Reddit browsing experience with additional features.
+16. **Reddit Suite** - Link: [Reddit Enhancement Suite (Chrome Extension)](https://chromewebstore.google.com/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - Description: Browser extension that enhances the Reddit browsing experience with additional features.
 17. **Reddit User Analyser** - Link: [Reddit User Analyser](https://atomiks.github.io/reddit-user-analyser) - Description: Analyze and visualize the activity and behavior of Reddit users.
 18. **redditvids** - Link: [redditvids](https://redditvids.com) - Description: Watch Reddit videos and browse popular video subreddits.
 19. **Reditr** - Link: [Reditr](http://reditr.com) - Description: Desktop Reddit client with a clean and intuitive interface.
@@ -379,7 +379,7 @@ graph TD
 28. **Wisdom of Reddit** - Link: [Wisdom of Reddit](https://wisdomofreddit.com) - Description: Curated collection of insightful quotes and comments from Reddit.
 
 ### 5.7 Github Leak Detection
-1. **Awesome Lists** - Link: [Awesome Lists](http://awesomelists.top) - Description: A curated list of awesome lists for various programming languages, frameworks, and tools.
+1. **Awesome Lists** - Link: [Awesome Lists](https://awesomelists.calvinjeng.io/) - Description: A curated list of awesome lists for various programming languages, frameworks, and tools.
 2. **CoderStats** - Link: [CoderStats](https://coderstats.net) - Description: A platform for developers to track and showcase their coding activity and statistics from GitHub.
 3. **Digital Privacy** - Link: [Digital Privacy](https://github.com/ffffffff0x/Digital-Privacy) - Description: A collection of resources and tools for enhancing digital privacy and security.
 4. **Find Github User ID** - Link: [Find Github User ID](http://caius.github.io/github_id) - Description: A web tool for finding the unique identifier (ID) of a GitHub user.
@@ -572,7 +572,7 @@ exiftool -all= foto_sanitizada.jpg
 - [Ventusky](https://www.ventusky.com) → weather maps
 - [Ukraine Live Cams](https://nagix.github.io/ukraine-livecams) → Ukraine cameras
 - [TWN](http://www.the-webcam-network.com) → webcam network
-- [Opentopia](http://www.opentopia.com) → public webcams
+- [Opentopia](https://www.opentopia.com/) → public webcams
 - [WorldCam](https://worldcam.eu) → world webcams
 - [Webcam Galore](https://www.webcamgalore.com) → webcams
 - [OpenTrafficCamMap](https://otc.armchairresearch.org/map) → traffic cameras
@@ -590,7 +590,7 @@ exiftool -all= foto_sanitizada.jpg
 - [PiAware (Raspberry Pi)](https://flightaware.com/adsb/piaware) → own ADS-B receiver
 - [MarineTraffic](https://www.marinetraffic.com) → global AIS tracking
 - [VesselFinder](https://www.vesselfinder.com) → free alternative
-- [ShipSpotting](http://www.shipspotting.com) → ship photo database
+- [ShipSpotting](https://www.shipspotting.com/) → ship photo database
 
 ---
 
@@ -608,7 +608,7 @@ exiftool -all= foto_sanitizada.jpg
 | 4 | Analyse audio: language, accent, calls to prayer (adhan = time + orientation to Mecca) | — |
 | 5 | Identify visual anchors: signs, licence plates, architecture, vegetation | — |
 | 6 | Geolocate anchors individually with Google Lens / Yandex Images + Overpass Turbo | — |
-| 7 | Trace sight lines from each anchor | [Google Earth Pro](https://www.google.com/earth) |
+| 7 | Trace sight lines from each anchor | [Google Earth Pro](https://earth.google.com/web/) |
 | 8 | Validate with Street View | Google Street View |
 | 9 | Validate with historical satellite imagery | Google Earth Pro + [Copernicus Browser](https://browser.dataspace.copernicus.eu) |
 | 10 | Determine camera cardinal orientation with SunCalc | [SunCalc](https://www.suncalc.org) |
@@ -635,7 +635,7 @@ exiftool -all= foto_sanitizada.jpg
 | Forensically | https://29a.ch/photo-forensics | Visual analysis suite |
 | ExifTool | https://exiftool.org | Metadata |
 | SunCalc | https://www.suncalc.org | Solar position |
-| Google Earth Pro | https://www.google.com/earth | Historical satellite |
+| Google Earth Pro | https://earth.google.com/web/ | Historical satellite |
 | Sentinel Hub | https://www.sentinel-hub.com | Sentinel-2 imagery |
 | yt-dlp | https://github.com/yt-dlp/yt-dlp | Video download |
 | GeoConfirmed | https://geoconfirmed.org | Collaborative geolocation |
@@ -676,7 +676,7 @@ Following the withdrawal of Russian troops from Bucha (Ukraine) in March 2022, i
 | BGP Ranking | CIRCL BGP | `https://bgpranking.circl.lu` |
 | Botnet Tracker | MalwareTech | `https://intel.malwaretech.com/` |
 | BOTVRIJ.EU | BOTVRIJ | `http://www.botvrij.eu/` |
-| C&C Tracker | Bambenek | `http://osint.bambenekconsulting.com/feeds/c2-ipmasterlist.txt` |
+| C&C Tracker | Bambenek | `https://osint.bambenekconsulting.com/feeds/c2-ipmasterlist.txt` |
 | CertStream | CertStream | `https://certstream.calidog.io/` |
 | CCSS Forum | CCSS Forum | `http://www.ccssforum.org/malware-certificates.php` |
 | CI Army List | CINS Score | `http://cinsscore.com/#list` |
@@ -693,7 +693,7 @@ Following the withdrawal of Russian troops from Bucha (Ukraine) in March 2022, i
 | Exploitalert | Exploitalert | `http://www.exploitalert.com/` |
 | FastIntercept | FastIntercept | `https://intercept.sh/threatlists/` |
 | Feodo Tracker | Feodo Tracker | `https://feodotracker.abuse.ch/` |
-| FireHOL | FireHOL | `http://iplists.firehol.org/` |
+| FireHOL | FireHOL | `https://iplists.firehol.org/` |
 | FraudGuard | FraudGuard | `https://fraudguard.io/` |
 | Grey Noise | Grey Noise | `http://greynoise.io/` |
 | HoneyDB | HoneyDB | `https://riskdiscovery.com/honeydb/` |
@@ -735,7 +735,7 @@ Following the withdrawal of Russian troops from Bucha (Ukraine) in March 2022, i
 | ThreatExchange | ThreatExchange | `https://developers.facebook.com/docs/threat-exchange/` |
 | TypeDB CTI | TypeDB CTI | `https://github.com/typedb-osi/typedb-cti` |
 | XFE | XFE | `https://exchange.xforce.ibmcloud.com/` |
-| Yeti | Yeti | `https://yeti-platform.github.io/` |
+| Yeti | Yeti | `https://yeti-platform.io/` |
 | 1st Dual Stack | 1st Dual Stack | `https://IOCFeed.mrlooquer.com/` |
 | Yara-Rules | Yara-Rules | `https://github.com/Yara-Rules/rules` |
 | VirusShare | VirusShare | `https://virusshare.com/` |
@@ -773,7 +773,7 @@ site:*.target.com intext:"confidential"
 | Scraper onion | DarkDump | `https://github.com/josh0xA/darkdump` |
 | Tor Project | Tor Project | `https://torproject.org` |
 | Public webcams | TWN | `http://www.the-webcam-network.com` |
-| Public webcams | Opentopia | `http://www.opentopia.com` |
+| Public webcams | Opentopia | `https://www.opentopia.com/` |
 | World webcams | WorldCam | `https://worldcam.eu` |
 | Webcams | Webcam Galore | `https://www.webcamgalore.com` |
 | Traffic cameras | OpenTrafficCamMap | `https://otc.armchairresearch.org/map` |
@@ -902,7 +902,7 @@ status: draft # draft | reviewed | delivered
 ### Free Books
 - [Open Source Intelligence Techniques — Michael Bazzell](https://inteltechniques.com/) — Official site with book updates, podcast & tools (current edition available on Amazon)
 - [Bellingcat Resources](https://www.bellingcat.com/resources/) — Free guides, case studies & methodology articles
-- [Bellingcat Online Investigation Toolkit](https://www.bellingcat.com/toolkit/) — Live, searchable toolkit maintained by Bellingcat
+- [Bellingcat Online Investigation Toolkit](https://bellingcat.gitbook.io/toolkit) — Live, searchable toolkit maintained by Bellingcat
 - [SANS Reading Room — OSINT](https://www.sans.org/reading-room/whitepapers/OSINT/) — Peer-reviewed whitepapers (free with registration)
 - [SANS Reading Room — Forensics](https://www.sans.org/reading-room/whitepapers/forensics/) — DFIR whitepapers, free
 - [SANS SEC497 OSINT Course](https://www.sans.org/cyber-security-courses/open-source-intelligence-gathering/) — Course outline, free sample content
@@ -1056,7 +1056,7 @@ h8mail -t targets.txt -bc local_breach_folder/ --power-all
 |---|---|---|---|
 | **Chainalysis Reactor** | Multi-chain | https://www.chainalysis.com | Forensic analysis professional |
 | **Elliptic** | Bitcoin, Ethereum | https://www.elliptic.co | Money laundering detection |
-| **Arkham Intelligence** | Multi-chain | https://www.arkhamintelligence.com | Entity mapping with AI |
+| **Arkham Intelligence** | Multi-chain | https://info.arkm.com/ | Entity mapping with AI |
 | **Glassnode** | On-chain analytics | https://glassnode.com | Advanced metrics |
 | **Etherscan** | Ethereum | https://etherscan.io | Main explorer |
 | **Blockchain.info** | Bitcoin | https://www.blockchain.com/explorer | Classic explorer |
@@ -1107,7 +1107,7 @@ sudo systemctl restart piaware
 |---|---|---|
 | **MarineTraffic** | Global AIS tracking | https://www.marinetraffic.com |
 | **VesselFinder** | Free alternative | https://www.vesselfinder.com |
-| **ShipSpotting** | Photo database | http://www.shipspotting.com |
+| **ShipSpotting** | Photo database | https://www.shipspotting.com/ |
 
 ---
 
@@ -1510,7 +1510,7 @@ site:*.*.target.com
 | Feed | Type | URL |
 |---|---|---|
 | **Spamhaus** | IP/domain reputation | https://www.spamhaus.org |
-| **FireHOL** | IP blocklists | http://iplists.firehol.org |
+| **FireHOL** | IP blocklists | https://iplists.firehol.org/ |
 | **AbuseIPDB** | IP abuse reports | https://www.abuseipdb.com |
 | **GreyNoise** | Internet scanner noise | https://www.greynoise.io |
 | **CINS Score** | Botnet IPs | http://cinsscore.com/#list |
@@ -1522,7 +1522,7 @@ site:*.*.target.com
 |---|---|---|
 | **MISP** | Open-source CTI platform | https://www.misp-project.org |
 | **OpenCTI** | Open-source CTI platform | https://filigran.io/products/opencti |
-| **Yeti** | IoC platform | https://yeti-platform.github.io |
+| **Yeti** | IoC platform | https://yeti-platform.io/ |
 | **aegistrace-threat-intelligence** | Python CTI pipeline (author's) | https://github.com/frangelbarrera/aegistrace-threat-intelligence |
 | **ThreatMiner** | Threat intel search | https://www.threatminer.org |
 | **PulseDive** | IoC enrichment | https://pulsedive.com |
@@ -1646,14 +1646,14 @@ cd osint-agent-skills
 | 1 | Identify initial entity: legal name, jurisdiction, registration number | [OpenCorporates](https://opencorporates.com) · [Companies House UK](https://find-and-update.company-information.service.gov.uk/) |
 | 2 | Obtain incorporation document | National public registry · [OCCRP Aleph](https://aleph.occrp.org) |
 | 3 | Identify active AND historical directors | [OpenCorporates](https://opencorporates.com) · [SEC EDGAR](https://www.sec.gov/edgar) |
-| 4 | Identify declared shareholders | [OpenOwnership Register](https://register.openownership.org) · [GLEIF](https://www.gleif.org) |
+| 4 | Identify declared shareholders | [OpenOwnership Register](https://www.openownership.org/en/topics/open-ownership-register/) · [GLEIF](https://www.gleif.org) |
 | 5 | Detect nominees and trusts | [ICIJ Offshore Leaks](https://offshoreleaks.icij.org) |
 | 6 | Verify physical-person identities | [LittleSis](https://littlesis.org) · national civil registries |
 | 7 | Walk the chain to next level (iterate to person or 5 levels max) | [Maltego](https://www.maltego.com) · [Obsidian](https://obsidian.md) |
 | 8 | Cross-check against sanctions (incl. OFAC 50 Percent Rule) | [OpenSanctions](https://www.opensanctions.org) · [OFAC SDN](https://ofac.treasury.gov) |
 | 9 | Verify UBO tax-residency transparency | [FATF High-Risk Jurisdictions](https://www.fatf-gafi.org/en/topics/high-risk-and-other-monitored-jurisdictions.html) |
 | 10 | Search adverse media and litigation | [OpenSanctions PEPs](https://www.opensanctions.org) · [CourtListener](https://www.courtlistener.com) |
-| 11 | Validate with blockchain/crypto if applicable | [Arkham Intelligence](https://www.arkhamintelligence.com) · [Etherscan](https://etherscan.io) |
+| 11 | Validate with blockchain/crypto if applicable | [Arkham Intelligence](https://info.arkm.com/) · [Etherscan](https://etherscan.io) |
 | 12 | Document final ownership chain (nodes, edges, %, dates, hashes) | Maltego + Obsidian + SHA-256 per document |
 
 ### 36.2 Verified Financial OSINT Tools
@@ -1661,7 +1661,7 @@ cd osint-agent-skills
 | Tool | URL | Function |
 |---|---|---|
 | OpenCorporates | https://opencorporates.com | Global corporate registry (140M+ entities) |
-| OpenOwnership Register | https://register.openownership.org | Public UBO registers |
+| OpenOwnership Register | https://www.openownership.org/en/topics/open-ownership-register/ | Public UBO registers |
 | OpenSanctions | https://www.opensanctions.org | Aggregated sanctions + PEPs |
 | OCCRP Aleph | https://aleph.occrp.org | Cross-border asset investigation |
 | ICIJ Offshore Leaks | https://offshoreleaks.icij.org | Pandora / Panama / Paradise Papers |
@@ -1676,7 +1676,7 @@ cd osint-agent-skills
 | OpenSecrets | https://www.opensecrets.org | US money-in-politics |
 | Sayari | https://sayari.com | Commercial corporate-network intel |
 | Equasis | https://www.equasis.org | Global merchant vessel registry |
-| Arkham Intelligence | https://www.arkhamintelligence.com | On-chain wallet attribution |
+| Arkham Intelligence | https://info.arkm.com/ | On-chain wallet attribution |
 | Dune Analytics | https://dune.com | SQL across 100+ blockchains (free tier) |
 | Nansen | https://nansen.ai | Smart-money signals ($49/mo) |
 | Arbiscan | https://arbiscan.io | Arbitrum L2 explorer |
@@ -1953,7 +1953,7 @@ site:amazonaws.com filetype:pdf "confidential"
 | NASA Worldview | https://worldview.earthdata.nasa.gov | Near-real-time satellite |
 | USGS Earth Explorer | https://earthexplorer.usgs.gov | USGS catalogue (Landsat, MODIS) |
 | Planet Labs | https://www.planet.com | Daily commercial satellite (may be restricted) |
-| Maxar | https://www.maxar.com | High resolution (may be restricted post-Gaza) |
+| Maxar | https://vantor.com/ | High resolution (may be restricted post-Gaza) |
 | Umbra Space | https://www.umbra.space | High-resolution SAR |
 
 ### 43.2 Satellite OSINT Workflow — 7 Steps
@@ -2219,11 +2219,11 @@ FACT-CHECK REPORT
 | Obsidian | https://obsidian.md | Linked notes with graphs |
 | TimelineJS | https://timeline.knightlab.com | Interactive timelines |
 | Aeon Timeline | https://www.aeontimeline.com | Complex timelines |
-| Draw.io / diagrams.net | https://www.diagrams.net | Diagrams and flows |
+| Draw.io / diagrams.net | https://www.drawio.com/ | Diagrams and flows |
 | Zotero | https://www.zotero.org | Reference management |
 | CryptPad | https://cryptpad.fr | Encrypted collaboration |
 | Standard Notes | https://standardnotes.com | E2E encrypted notes |
-| VeraCrypt | https://www.veracrypt.fr | Container encryption |
+| VeraCrypt | https://veracrypt.io/ | Container encryption |
 | MAT2 | https://0xacab.org/jvoisin/mat2 | Metadata stripping |
 | ExifTool | https://exiftool.org | Metadata extraction |
 | OpenTimestamps | https://opentimestamps.org | Blockchain timestamping |
@@ -2353,15 +2353,15 @@ Brazil had 187.9 million internet users at the start of 2024 (86.6% penetration)
 | Diário Oficial da União (DOU) | https://in.gov.br/servicos/diario-oficial-da-uniao | Federal official gazette |
 | Imprensa Nacional | https://www.gov.br/imprensanacional/pt-br | Print house & gazette archive |
 | Portal de Compras (Comprasnet) | https://www.gov.br/compras/pt-br | Federal procurement contracts |
-| Portal da Transparência | https://www.portaltransparencia.gov.br | CEIS (sanctioned companies), public spending |
+| Portal da Transparência | https://portaldatransparencia.gov.br/ | CEIS (sanctioned companies), public spending |
 
 **Court records:** Jusbrasil (https://www.jusbrasil.com.br/consulta-processual) and Escavador (https://www.escavador.com) are the two principal case-law aggregators; both index CNJ-connected tribunals. The official CNJ platform is https://www.cnj.jus.br.
 
 **Property registry:** Brazil has no unified federal property registry; each Cartório de Registro de Imóveis (notary office) keeps its own records.
 
 #### Local Sources & Press
-- **Quality press:** Folha de S.Paulo (https://www1.folha.uol.com.br), O Globo (https://oglobo.globo.com), Estadão (https://www.estadao.com.br), Valor Econômico (https://valor.globo.com).
-- **Investigative / non-profit:** Agência Pública (https://apublica.org), Agência Lupa (https://piaui.folha.uol.com.br/lupa/ fact-checking), The Intercept Brasil (https://theintercept.com/brasil/), Instituto Socioambiental (https://www.socioambiental.org).
+- **Quality press:** Folha de S.Paulo (https://www.folha.uol.com.br/), O Globo (https://oglobo.globo.com), Estadão (https://www.estadao.com.br), Valor Econômico (https://valor.globo.com).
+- **Investigative / non-profit:** Agência Pública (https://apublica.org), Agência Lupa (https://piaui.folha.uol.com.br/lupa/ fact-checking), The Intercept Brasil (https://www.intercept.com.br/), Instituto Socioambiental (https://www.socioambiental.org).
 - **Open-data portals:** dados.gov.br (federal open data), TSE Eleições (https://divulgacandcontas.tse.jus.br) for electoral/campaign finance.
 
 #### Country-Specific OSINT Tools
@@ -2451,7 +2451,7 @@ Argentina has ~37 million internet users (~83% penetration per DataReportal *Dig
 |---|---|---|
 | Boletín Oficial de la República Argentina | https://www.boletinoficial.gob.ar | National official gazette |
 | AFIP / ARCA | https://www.afip.gob.ar | Tax authority, CUIT lookup |
-| IGJ (Inspección General de Justicia) | https://www.jus.gob.ar/igj | National corporate registry |
+| IGJ (Inspección General de Justicia) | https://www.argentina.gob.ar/justicia/igj | National corporate registry |
 | INDEC | https://www.indec.gob.ar | National statistics |
 | Datos Jus.Gob.Ar | https://www.datos.jus.gob.ar | Justice open data |
 | Padrón Electoral | https://www.padron.gob.ar | Electoral roll lookup |
@@ -2558,7 +2558,7 @@ Internet penetration ~98% (Ofcom 2024); 5G nationwide; gigabit-fibre rollout ~80
 | UK Parliament | https://parliament.uk | Hansard, committee reports | ✅ 200 |
 | National Archives | https://www.nationalarchives.gov.uk | Historical records | ✅ 200 |
 | Find a Company | https://find-and-update.company-information.service.gov.uk | Search by name/number | ✅ 200 |
-| OpenOwnership Register | https://register.openownership.org | UK PSC register | ⚠️ 403, live in browser |
+| OpenOwnership Register | https://www.openownership.org/en/topics/open-ownership-register/ | UK PSC register | ⚠️ 403, live in browser |
 
 #### Local Sources & Press
 - **Quality press:** The Guardian, BBC News, Reuters, Financial Times, The Times, The Telegraph, The Independent.
@@ -2815,7 +2815,7 @@ Internet penetration ~88% (GUS 2024). Google dominates search; presearch.com has
 
 | Source | URL | Function | Status |
 |---|---|---|---|
-| eKRS (Krajowy Rejestr Sądowy) | https://ekrs.ms.gov.pl | National court registry | ✅ 200 |
+| eKRS (Krajowy Rejestr Sądowy) | https://prs.ms.gov.pl/krs | National court registry | ✅ 200 |
 | Biznes.gov.pl | https://biznes.gov.pl/en/wyszukiwarka-firm | Business search | ✅ 200 |
 | dane.gov.pl | https://dane.gov.pl/en/dataset | Open data portal | ✅ 200 |
 | Dziennik Ustaw | https://www.dziennikustaw.gov.pl | Official journal of laws | ✅ 200 |
@@ -3128,7 +3128,7 @@ Internet penetration ~93% (MIC 2024). Google (~75%) and Yahoo! Japan (~25%) domi
 
 | Source | URL | Function | Status |
 |---|---|---|---|
-| National Tax Agency | https://www.nta.go.jp/english | Tax authority | ⚠️ 403, live in browser |
+| National Tax Agency | https://www.nta.go.jp/english/ | Tax authority | ⚠️ 403, live in browser |
 | Houjin Bangou (NTA) | https://www.houjin-bangou.nta.go.jp/ | Corporate registry (official) | ✅ 200 |
 | e-Gov Japan | https://www.e-gov.go.jp | Legal portal | ✅ 200 |
 | e-Stat | https://www.e-stat.go.jp | Statistics portal | ✅ 200 |
@@ -3640,7 +3640,7 @@ Internet penetration ~91% (ABS 2024). Google dominates search. WhatsApp, iMessag
 | Microsoft Security blog | https://www.microsoft.com/en-us/security/blog |
 | Digital Defense Report 2024 | https://www.microsoft.com/en-us/security/security-insider/threat-landscape/microsoft-digital-defense-report-2024 |
 | MSTIC threat actor encyclopedia | https://learn.microsoft.com/en-us/unified-secops/microsoft-threat-actor-naming |
-| MSRC (Microsoft Security Response Center) | https://msrc.microsoft.com/ |
+| MSRC (Microsoft Security Response Center) | https://www.microsoft.com/en-us/msrc |
 
 #### Cisco Talos
 
