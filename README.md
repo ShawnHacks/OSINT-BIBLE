@@ -131,7 +131,6 @@ graph TD
 - [Malware Domain List](https://www.malwarepatrol.net) → malicious domains
 - [PhishTank](https://www.phishtank.com) → phishing URLs
 - [URLhaus](https://urlhaus.abuse.ch) → malware URLs
-- [ThreatMiner](https://www.threatminer.org) → threat intelligence
 - [YARAify](https://yaraify.abuse.ch) → YARA rules
 - [PulseDive](https://pulsedive.com) → IOC search
 - [ThreatFox](https://threatfox.abuse.ch) → malware IOCs
@@ -254,7 +253,6 @@ graph TD
 - [Ubikron](https://ubikron.com ) → AI-powered evidence collection & entity extraction
 - [Screenshot Guru](https://screenshot.guru) → screen test
 - [Stored Website](https://stored.website) → cached pages
-- [ThreatMiner](https://www.threatminer.org) → IOC context
 - [YARAify](https://yaraify.abuse.ch) → YARA rules
 - [PulseDive](https://pulsedive.com) → IOC search
 - [ThreatFox](https://threatfox.abuse.ch) → malware IOCs
@@ -355,18 +353,15 @@ graph TD
 4. **Phantom Buster** - Link: [Phantom Buster](https://phantombuster.com/phantombuster?category=reddit) - Description: Automation tool suite that includes Reddit data extraction capabilities.
 5. **rdddeck** - Link: [rdddeck](https://rdddeck.com) - Description: Real-time dashboard for monitoring multiple Reddit communities.
 6. **Readr for Reddit** - Link: [Readr for Reddit](https://chromewebstore.google.com/detail/readr-for-reddit/molhdaofohigaepljchpmfablknhabmo) - Description: Google Chrome extension for an improved reading experience on Reddit.
-7. **Reddit Archive** - Link: [Reddit Archive](http://www.redditarchive.com) - Description: Archive of Reddit posts and comments for historical reference.
 8. **Reddit Comment Search** - Link: [Reddit Comment Search](https://redditcommentsearch.com) - Description: Search for specific comments and conversations on Reddit.
 9. **Redditery** - Link: [Redditery](https://www.redditery.com/) - Description: Explore Reddit posts and comments based on various criteria.
 10. **Reddit Hacks** - Link: [Reddit Hacks](https://github.com/EdOverflow/hacks) - Description: Collection of Reddit hacks and tricks for advanced users.
 11. **Reddit List** - Link: [Reddit List](https://redditlist.com/) - Description: Directory of popular subreddits organized by various categories.
 12. **reddtip** - Link: [reddtip](https://www.redditp.com) - Description: Show appreciation to Reddit users by sending them tips in cryptocurrencies.
 13. **Reddit Search** - Link: [Reddit Search (realsrikar)](https://realsrikar.github.io/reddit-search) - Description: Various tools and websites for searching and discovering content on Reddit.
-14. **Reddit Shell** - Link: [Reddit Shell](https://redditshell.com) - Description: Command-line interface for browsing and interacting with Reddit.
 15. **Reddit Stream** - Link: [Reddit Stream](http://reddit-stream.com) - Description: Live-streaming of Reddit comments for real-time discussions.
 16. **Reddit Suite** - Link: [Reddit Enhancement Suite (Chrome Extension)](https://chromewebstore.google.com/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - Description: Browser extension that enhances the Reddit browsing experience with additional features.
 17. **Reddit User Analyser** - Link: [Reddit User Analyser](https://atomiks.github.io/reddit-user-analyser) - Description: Analyze and visualize the activity and behavior of Reddit users.
-18. **redditvids** - Link: [redditvids](https://redditvids.com) - Description: Watch Reddit videos and browse popular video subreddits.
 19. **Reditr** - Link: [Reditr](http://reditr.com) - Description: Desktop Reddit client with a clean and intuitive interface.
 20. **Reeddit** - Link: [Reeddit](https://reedditapp.com) - Description: Simplified and clean Reddit web interface for a distraction-free browsing experience.
 21. **smat** - Link: [smat](https://www.smat-app.com/timeline) - Description: Social media analytics tool that includes Reddit for tracking trends and engagement.
@@ -731,7 +726,6 @@ Following the withdrawal of Russian troops from Bucha (Ukraine) in March 2022, i
 | threatfeeds.io | threatfeeds.io | `https://threatfeeds.io` |
 | threatfox | threatfox | `https://threatfox.abuse.ch/` |
 | Technical Blogs (Dataminr) | Technical Blogs | `https://www.dataminr.com/blog/` |
-| ThreatMiner | ThreatMiner | `https://www.threatminer.org/` |
 | ThreatExchange | ThreatExchange | `https://developers.facebook.com/docs/threat-exchange/` |
 | TypeDB CTI | TypeDB CTI | `https://github.com/typedb-osi/typedb-cti` |
 | XFE | XFE | `https://exchange.xforce.ibmcloud.com/` |
@@ -762,7 +756,6 @@ site:*.target.com intext:"confidential"
 | Need | Solution | URL |
 |---|---|---|
 | Search .onion | [Ahmia](https://ahmia.fi) | clean index |
-| IOC aggregation | DeepTrawl (author's) | `https://github.com/frangelbarrera/deepweb-leak-search` |
 | Check if data leaked | [HaveIBeenPwned](https://haveibeenpwned.com) | API |
 | Markets | DarkOwl (paid) | — |
 | Credentials | [DeHashed](https://dehashed.com) (freemium) | — |
@@ -1255,7 +1248,6 @@ masscan: ~5 seconds (less detail)
 | **Dark.fail** | Verified directory | https://dark.fail | Tor Browser |
 | **Torch** | Old searcher | (only .onion) | Tor Browser |
 | **DarkDump** | Onion scraper | https://github.com/josh0xA/darkdump | Python + Tor |
-| **DeepTrawl** | Tor-routed IOC aggregator + BTC/XMR wallet extraction | https://github.com/frangelbarrera/deepweb-leak-search | Python + Tor + PostgreSQL |
 
 **Dark Web OPSEC:**
 ```
@@ -1281,7 +1273,6 @@ masscan: ~5 seconds (less detail)
 | **Recon-ng** | Python | https://github.com/lanmaster53/recon-ng | Modular |
 | **theHarvester** | Python | https://github.com/laramies/theHarvester | Email/subdomain |
 | **Maltego** | Java | https://www.maltego.com | Visualization |
-| **SentinelScope** | Python | https://github.com/frangelbarrera/sentinelscope | Lightweight Recon-ng alternative, modular |
 
 **SpiderFoot setup:**
 ```bash
@@ -1524,7 +1515,6 @@ site:*.*.target.com
 | **OpenCTI** | Open-source CTI platform | https://filigran.io/products/opencti |
 | **Yeti** | IoC platform | https://yeti-platform.io/ |
 | **aegistrace-threat-intelligence** | Python CTI pipeline (author's) | https://github.com/frangelbarrera/aegistrace-threat-intelligence |
-| **ThreatMiner** | Threat intel search | https://www.threatminer.org |
 | **PulseDive** | IoC enrichment | https://pulsedive.com |
 | **AlienVault OTX** | Threat exchange | https://otx.alienvault.com |
 
@@ -2410,7 +2400,7 @@ Mexico has ~96 million internet users (~75% penetration per DataReportal *Digita
 
 #### Local Sources & Press
 - **Quality press:** Proceso, Animal Político, Latinus, Emeequis, Reforma, El Universal, Milenio.
-- **Investigative / non-profit:** MexicanLeaks (https://mexicanleaks.mx), Quinto Elemento Lab, Article 19 México (https://article19.org/offices/mexico-office).
+- **Investigative / non-profit:** Quinto Elemento Lab, Article 19 México (https://article19.org/offices/mexico-office).
 - **OSINT community:** OSINT Español, OSINT México communities on Telegram/Discord.
 
 #### Country-Specific OSINT Tools
@@ -2672,7 +2662,7 @@ Internet penetration ~85% (ARCEP 2024). Google dominates search; Qwant is the Fr
 #### Local Sources & Press
 - **Quality press:** Le Monde, Le Figaro, Libération, Les Echos, Le Parisien, L'Equipe, Mediapart (investigative).
 - **Investigative NGOs:** Mediapart (https://www.mediapart.fr/en/english ✅), StreetPress, Disclose (https://disclose.ngo).
-- **OSINT community:** OSINT-FR community (Discord), CFM News (https://cfmnews.fr).
+- **OSINT community:** OSINT-FR community (Discord).
 
 #### Country-Specific OSINT Tools
 - **Pappers** — free corporate data aggregator (uses Infogreffe data).
@@ -3242,7 +3232,6 @@ Internet penetration ~84% (StatCounter 2024), but the internet is heavily filter
 
 | Source | URL | Function | Status |
 |---|---|---|---|
-| Iranian Companies Registration | http://www.irsherkat.ssc.ir | Corporate registry | ⚠️ Timeout |
 | Official Gazette | http://www.rrk.ir | Official gazette | ⚠️ Timeout |
 | Iran Open Data | https://iranopendata.org | Open data portal | ✅ 200 |
 | Central Bank of Iran | https://www.cbi.ir | Central bank | ⚠️ Timeout |
