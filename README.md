@@ -379,9 +379,6 @@ graph TD
 3. **Digital Privacy** - Link: [Digital Privacy](https://github.com/ffffffff0x/Digital-Privacy) - Description: A collection of resources and tools for enhancing digital privacy and security.
 4. **Find Github User ID** - Link: [Find Github User ID](http://caius.github.io/github_id) - Description: A web tool for finding the unique identifier (ID) of a GitHub user.
 5. **GH Archive** - Link: [GH Archive](http://www.gharchive.org) - Description: A project that provides a public dataset of GitHub activity, including events and metadata.
-6. **GitGot** - Link: [GitGot](https://github.com/BishopFox/GitGot) - Description: A semi-automated, feedback-driven tool for auditing Git repositories.
-7. **gitGraber** - Link: [gitGraber](https://github.com/hisxo/gitGraber) - Description: A tool for searching and cloning sensitive information in GitHub repositories.
-8. **git-hound** - Link: [git-hound](https://github.com/tillson/git-hound) - Description: A tool for finding sensitive information exposed in GitHub repositories.
 9. **Github Dorks** - Link: [Github Dorks](https://github.com/techgaun/github-dorks) - Description: A collection of GitHub dorks, which are search queries to find sensitive information in repositories.
 10. **Github Stars** - Link: [Github Stars](http://githubstars.com) - Description: A website that showcases GitHub repositories with the most stars and popularity.
 11. **Github Trending RSS** - Link: [Github Trending RSS](https://mshibanami.github.io/GitHubTrendingRSS) - Description: An RSS feed generator for trending repositories on GitHub.
@@ -475,7 +472,6 @@ python3 gitgot.py -q "ORGNAME"
 
 ### 5.8 Snapchat
 1. **addmeContacts** - Link: [addmeContacts](http://add-me-contacts.com) - Description: A platform to find and connect with new contacts on various social media platforms.
-2. **AddMeSnaps** - Link: [AddMeSnaps](https://www.addmesnaps.com) - Description: A website for discovering and adding new Snapchat friends.
 3. **ChatToday** - Link: [ChatToday](https://chattoday.com) - Description: An online chat platform for connecting and chatting with people from around the world.
 4. **Gebruikersnamen: Snapchat** - Link: [Gebruikersnamen: Snapchat](https://gebruikersnamen.nl/snapchat) - Description: A website for finding Snapchat usernames.
 5. **OSINT Combine: Snapchat MultiViewer** - Link: [OSINT Combine: Snapchat MultiViewer](https://www.osintcombine.com/snapchat-multi-viewer) - Description: A tool for viewing multiple Snapchat accounts simultaneously.
@@ -3276,9 +3272,6 @@ Internet penetration ~99% (CITC 2024, one of the highest in the world). Google d
 - **State Security:** Presidency of State Security (**PSS**) — established 2017 to oversee counter-terrorism and domestic intelligence.
 - **Cyber operations:** Saudi Arabia has built up cyber capabilities; the National Cybersecurity Authority (NCA) regulates and oversees cyber defence.
 - **OSINT unit / tradecraft:** GIP uses OSINT for monitoring domestic and regional opposition. Specific tradecraft is classified.
-- **Publicly verifiable tradecraft points:**
-  - Saudi Arabia's use of Pegasus spyware (NSO Group) against dissidents is documented by Citizen Lab (https://citizenlab.ca/tag/saudi-arabia/).
-  - The 2018 Jamal Khashoggi assassination used OSINT to identify the Saudi hit team (Bellingcat investigation, https://www.bellingcat.com/news/middle-east/2018/10/15/examining-cctv-videos-saudi-consulate-istanbul-connected-khashoggis-disappearance/).
 - **What is NOT verified:** Specific GIP tradecraft details are not publicly available.
 
 #### Government Sources (Verified URLs)
@@ -3329,7 +3322,6 @@ Internet penetration ~83% (BTK 2024). Google dominates search; Yandex has ~20% m
 - **Publicly verifiable tradecraft points:**
   - MIT's legal basis is **Law No. 2937 on the State Intelligence Services and the National Intelligence Organization** (https://www.mevzuat.gov.tr/mevzuatmetin/1.5.2937.pdf).
   - Turkey has been documented using Pegasus spyware (Citizen Lab reports).
-  - **MIT informant leaks (2020-2022)** — Nordic Monitor (https://nordicmonitor.com) published leaked MIT documents revealing OSINT-based targeting of dissidents abroad.
 
 #### Government Sources (Verified URLs)
 
