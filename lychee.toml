@@ -71,4 +71,5 @@ exclude = [
     'rnie\.sems\.gob\.mx',
     'oni\.gov\.au',
     'skypli\.com',
+    'aware-online\.com',
 ]
