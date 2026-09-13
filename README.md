@@ -202,7 +202,7 @@ graph TD
 - [HDRobots](https://hdrobots.com) → AI tools directory
 - [Channel 4 News](https://www.channel4.com/news) → British news
 - [ThreatMon Reports](https://threatmon.io/reports) → threat reports
-- [Israel Datasets](https://data.gov.il/dataset) → Israeli datasets
+- [Israel Datasets](https://data.gov.il/) → Israeli datasets
 - [AI Dubbing](https://elevenlabs.io/dubbing) → AI dubbing
 - [Budget Key](https://next.obudget.org/?lang=en) → Israel budget
 - [Ship Spotting](https://www.shipspotting.com) → ship photos
@@ -241,7 +241,7 @@ graph TD
 - [Coalition ESS](https://ess.coalitioninc.com) → exploit scoring
 - [Validin](https://app.validin.com) → attack surface mapping
 - [CIRCL PDNS](https://www.circl.lu/services/passive-dns) → passive DNS
-- [InTheWild](https://inthewild.io) → exploits in wild
+- [InTheWild](https://github.com/gmatuz/inthewilddb) → exploits in wild
 - [360 Quake](https://quake.360.net) → cyberspace mapping
 - [Cloudflare Radar](https://radar.cloudflare.com/traffic) → internet trends
 - [Crisis24](https://crisis24.garda.com) → security risk management
@@ -740,7 +740,7 @@ Following the withdrawal of Russian troops from Bucha (Ukraine) in March 2022, i
 | Yara-Rules | Yara-Rules | `https://github.com/Yara-Rules/rules` |
 | VirusShare | VirusShare | `https://virusshare.com/` |
 | CIRCL PDNS | CIRCL PDNS | `https://www.circl.lu/services/passive-dns` |
-| InTheWild | InTheWild | `https://inthewild.io` |
+| InTheWild | InTheWild | `https://github.com/gmatuz/inthewilddb` |
 | 360 Quake | 360 Quake | `https://quake.360.net` |
 | Cloudflare Radar | Cloudflare Radar | `https://radar.cloudflare.com/traffic` |
 | Validin | Validin | `https://app.validin.com` |
@@ -921,7 +921,7 @@ status: draft # draft | reviewed | delivered
 - [OSINT Framework](https://osintframework.com/) — Live searchable tree of OSINT tools
 - [Awesome OSINT (jivoi)](https://github.com/jivoi/awesome-osint) — Curated mega-list, GitHub
 - [OSINT Collection (Ph055a)](https://github.com/Ph055a/OSINT_Collection) — Curated free & actionable resources
-- [INCIBE-CERT Blog](https://www.incibe-cert.es/blog) — Spanish cybersecurity articles (free)
+- [INCIBE-CERT Blog](https://www.incibe.es/incibe-cert/blog) — Spanish cybersecurity articles (free)
 - [The DFIR Report](https://thedfirreport.com/) — Real-world intrusion case studies, free
 - [Krebs on Security](https://krebsonsecurity.com/) — Investigative cybersecurity journalism
 - [Cisco Talos Blog](https://blog.talosintelligence.com/) — Daily threat intel blog
@@ -2227,7 +2227,7 @@ FACT-CHECK REPORT
 | MAT2 | https://0xacab.org/jvoisin/mat2 | Metadata stripping |
 | ExifTool | https://exiftool.org | Metadata extraction |
 | OpenTimestamps | https://opentimestamps.org | Blockchain timestamping |
-| Hunchly | https://www.hunchly.com | Web capture with OPSEC ($129/yr) |
+| Hunchly | https://hunch.ly | Web capture with OPSEC ($129/yr) |
 | archive.org Wayback | https://web.archive.org | Historical web archive |
 | Archive.today | https://archive.today | Wayback alternative |
 | Maltego | https://www.maltego.com | Link analysis and visualization |
@@ -2296,7 +2296,7 @@ Internet penetration ~93% of ~335M (Pew/ITU). Google (~88% market share), Bing, 
 | SAM.gov | https://sam.gov | Federal contractor registry + exclusions | ✅ 200 |
 | FEC | https://www.fec.gov/data/ | Campaign finance data | ✅ 200 |
 
-**State-level company registers:** The US has no federal companies register. Each state runs its own Secretary of State business search (e.g. California https://businesssearch.sos.ca.gov, Delaware https://icis.corp.delaware.gov/ecorp/entitysearch/namesearch.aspx, New York https://apps.dos.ny.gov/publicInquiry/).
+**State-level company registers:** The US has no federal companies register. Each state runs its own Secretary of State business search (e.g. California https://bizfileonline.sos.ca.gov/search/business, Delaware https://icis.corp.delaware.gov/ecorp/entitysearch/namesearch.aspx, New York https://apps.dos.ny.gov/publicInquiry/).
 
 #### Local Sources & Press
 - **Quality press:** New York Times, Washington Post, Wall Street Journal, ProPublica, Reuters, AP, Bloomberg, Los Angeles Times, Miami Herald, Texas Tribune, CALmatters.
@@ -2327,7 +2327,7 @@ Internet penetration ~93% of ~335M (Pew/ITU). Google (~88% market share), Bing, 
 
 #### Notable Cases
 - **MH17 (2014, Netherlands-led but Bellingcat-driven).** Bellingcat used open VK posts, satellite imagery, geolocation of a Buk TELAR transport and matched social-media timestamps to attribute the downing of MH17 to Russian forces. Methodology PDF: https://www.bellingcat.com/app/uploads/2015/10/MH17-The-Open-Source-Evidence-EN.pdf ✅. The case is the textbook example of OSINT-as-evidence (used by the JIT and cited in the Dutch court verdict in absentia against Russians Girkin/Dubinsky/Pulatkij in 2022).
-- **1MDB kleptocracy asset recovery (2016-2024).** DOJ Civil forfeiture complaints — https://www.justice.gov/criminal/criminal-mlnsa/kleptocracy-asset-recovery-initiative ⚠️ — used leaked bank records, SEC filings, real-estate records from NYC registry and shell-company filings from BVI/Seychelles.
+- **1MDB kleptocracy asset recovery (2016-2024).** DOJ Civil forfeiture complaints — https://en.wikipedia.org/wiki/1Malaysia_Development_Berhad_scandal — used leaked bank records, SEC filings, real-estate records from NYC registry and shell-company filings from BVI/Seychelles.
 - **Boston Marathon bombing misidentification (2013).** The cautionary counter-example: Reddit/Twitter crowd-sleuths wrongly identified missing student Sunil Tripathi as a suspect; he was later found dead by suicide. Teaching case on confirmation bias in OSINT.
 - **January 6 Capitol riot (2021).** Sedition Hunters (https://seditionhunters.org) and the FBI used Parler video metadata and facial matches to identify >1,400 suspects.
 
@@ -2348,7 +2348,7 @@ Brazil had 187.9 million internet users at the start of 2024 (86.6% penetration)
 
 | Source | URL | Function |
 |---|---|---|
-| Receita Federal — CNPJ | https://www.gov.br/receitafederal/pt-br/servicos/cadastro/cnpj | Business registry lookup |
+| Receita Federal — CNPJ | https://www.gov.br/receitafederal/pt-br/assuntos/cadastros-e-registros-especiais/cnpj | Business registry lookup |
 | CNPJ Comprovante | https://solucoes.receita.fazenda.gov.br/servicos/cnpjreva/cnpjreva_solicitacao.asp | Registration/situation certificate |
 | Diário Oficial da União (DOU) | https://in.gov.br/servicos/diario-oficial-da-uniao | Federal official gazette |
 | Imprensa Nacional | https://www.gov.br/imprensanacional/pt-br | Print house & gazette archive |
@@ -2404,7 +2404,7 @@ Mexico has ~96 million internet users (~75% penetration per DataReportal *Digita
 | DOF (Diario Oficial de la Federación) | https://www.dof.gob.mx | Federal official gazette |
 | INEGI | https://www.inegi.org.mx | DENUE business directory, census, statistics |
 | Compranet | https://www.gob.mx/compranet | Federal public procurement |
-| INAI | https://www.inai.org.mx | Transparency / FOIA portal |
+| Plataforma Nacional de Transparencia | https://www.plataformadetransparencia.org.mx | Transparency / FOIA portal |
 | Plataforma Digital Nacional | https://plataformadigitalnacional.org | Asset declarations, sanctions |
 | RNIE | https://www.rnie.sems.gob.mx | National educational institutions registry |
 
@@ -2427,7 +2427,7 @@ Mexico has ~96 million internet users (~75% penetration per DataReportal *Digita
 - **OPSEC:** Critical. Investigating cartels or political corruption carries physical risk.
 
 #### Notable Cases
-- **Ayotzinapa case (2014).** 43 student teachers from the Ayotzinapa Rural Teachers' College disappeared in Iguala, Guerrero. The official "Historical Truth" (Verdad Histórica) was challenged by the **GIEI (Grupo Interdisciplinario de Expertos Personas)** report, which used OSINT (satellite imagery, phone records, geolocation of security forces) to contradict the government narrative. Verified URLs: https://en.wikipedia.org/wiki/2014_Iguala_mass_kidnapping · https://gieicom.org/informes/.
+- **Ayotzinapa case (2014).** 43 student teachers from the Ayotzinapa Rural Teachers' College disappeared in Iguala, Guerrero. The official "Historical Truth" (Verdad Histórica) was challenged by the **GIEI (Grupo Interdisciplinario de Expertos Personas)** report, which used OSINT (satellite imagery, phone records, geolocation of security forces) to contradict the government narrative. Verified URLs: https://en.wikipedia.org/wiki/2014_Iguala_mass_kidnapping · https://gieicom.com/.
 - **MexicanLeaks investigations** — multiple investigations into political corruption published through the platform.
 
 </details>
@@ -2490,7 +2490,7 @@ Canada has ~36 million internet users (~94% penetration). Google dominates searc
 - **OSINT unit / tradecraft:** CSIS and CSE both maintain OSINT collection capabilities but do not publicly advertise dedicated OSINT directorates. CSIS publicly acknowledges OSINT as a collection discipline in its annual reports.
 - **Verified URLs:**
   - https://www.csis-scrs.gc.ca/en/operations.php
-  - https://www.cse-cst.gc.ca/en/who-we-are/mandate
+  - https://www.cse-cst.gc.ca/en/corporate-information/mandate
 
 #### Government Sources (Verified URLs)
 
@@ -2498,9 +2498,9 @@ Canada has ~36 million internet users (~94% penetration). Google dominates searc
 |---|---|---|
 | Corporations Canada | https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/feder.html | Federal corporate registry |
 | Industry Canada Open Data | https://open.canada.ca | Federal open data portal |
-| Canada Gazette | https://gazette.gc.ca/rp-pr/p1/whats-new/index-eng.html | Official gazette |
+| Canada Gazette | https://gazette.gc.ca/accueil-home-eng.html | Official gazette |
 | CASL Registry | https://crtc.gc.ca/eng/internet/anti.htm | Anti-spam compliance |
-| NSICOP reports | https://www.canada.ca/en/parliament/information/publications/national-security-intelligence-committee-parliamentarians.html | National security oversight reports |
+| NSICOP reports | https://www.ourcommons.ca/committees/en/NSICOP | National security oversight reports |
 
 #### Local Sources & Press
 - **Quality press:** CBC, Toronto Star, The Globe and Mail, La Presse (French), National Post.
@@ -2511,7 +2511,7 @@ Canada has ~36 million internet users (~94% penetration). Google dominates searc
 - **Open Canada** — open data aggregator.
 - **Lobby Canada** — federal lobbying registry.
 - **CASL Registry** — anti-spam compliance lookup.
-- **Provincial corporate registries** — each province maintains its own (e.g. Ontario https://www.ontario.ca/page/search-and-buy-business-name-and-incorporation-information).
+- **Provincial corporate registries** — each province maintains its own (e.g. Ontario https://www.ontario.ca/page/ontario-business-registry).
 
 #### Legal Considerations
 - **Data protection:** **PIPEDA** — Personal Information Protection and Electronic Documents Act (2000). Provincial equivalents (Quebec Law 25, BC PIPA, Alberta PIPA).
@@ -2541,7 +2541,7 @@ Internet penetration ~98% (Ofcom 2024); 5G nationwide; gigabit-fibre rollout ~80
 - **OSINT dedicated unit:** **GCHQ Open Source Intelligence Hub (OSI Hub)** — publicly referenced in the 2023 GCHQ annual report and in the 2024 *Intelligence and Security Committee* report. Less publicly visible than CIA OSE. NCSC uses OSINT for threat-intel (weekly threat reports).
 - **Publicly verifiable tradecraft points:**
   - GCHQ's legal basis is the **Investigatory Powers Act 2016** ("Snooper's Charter"); bulk personal datasets and bulk interception warrants are reviewed by the Investigatory Powers Commissioner's Office (IPCO) — public reports at https://ipco.org.uk.
-  - NCSC publishes the **Early Warning** service (free to UK organisations) which is OSINT + sinkhole data — https://www.ncsc.gov.uk/section/services/early-warning.
+  - NCSC publishes the **Early Warning** service (free to UK organisations) which is OSINT + sinkhole data — https://www.ncsc.gov.uk/section/active-cyber-defence/early-warning.
   - GCHQ published **"Pioneers, a UK strategy for AI"** (2024) openly — first IC in Five Eyes to do so.
 - **What is NOT verified (myth-busting):**
   - "GCHQ reads every email in the UK" — actual programs target external traffic under RIPA/IPA warrants; bulk domestic collection requires specific authorization.
@@ -2596,11 +2596,11 @@ Internet penetration ~93% (Bitkom 2024). Google dominates search; alternative pr
 #### Intelligence Agency & OSINT Tradecraft
 - **Foreign intelligence agency:** Bundesnachrichtendienst (**BND**) — https://www.bnd.bund.de
 - **Domestic intelligence agency (Verfassungsschutz):** Bundesamt für Verfassungsschutz (**BfV**) — https://www.verfassungsschutz.de
-- **Military intelligence:** Militärischer Abschirmdienst (**MAD**) — https://www.bmvg.de/de/organisation/mad
+- **Military intelligence:** Militärischer Abschirmdienst (**MAD**) — https://www.bmvg.de/de
 - **OSINT unit / tradecraft:** BND has an OSINT branch (Open Source Intelligence), but its work is classified. The BfV publishes the annual *Verfassungsschutzbericht* (Constitutional Protection Report) which uses OSINT analysis of extremism and disinformation.
 - **Publicly verifiable tradecraft points:**
   - BND's legal basis is the **BND-Gesetz (BND Act, 2020)** — https://www.gesetze-im-internet.de/bndg/, which explicitly regulates OSINT collection.
-  - BfV publishes *Verfassungsschutzbericht* annually (https://www.verfassungsschutz.de/de/oeffentlichkeitsarbeit/publikationen/publikationsarchiv) — uses OSINT to map extremism.
+  - BfV publishes *Verfassungsschutzbericht* annually (https://www.verfassungsschutz.de/SiteGlobals/Forms/Suche/Publikationensuche_Formular.html?nn=678360) — uses OSINT to map extremism.
   - **Federal Office for Information Security (BSI)** — https://www.bsi.bund.de — publishes threat reports based on OSINT.
 - **What is NOT verified:** Specific BND OSINT operations are not publicly attributed. Avoid claims about "BND sockpuppets" without source.
 
@@ -2636,7 +2636,7 @@ Internet penetration ~93% (Bitkom 2024). Google dominates search; alternative pr
 - **SLAPP risk:** No specific anti-SLAPP law, but criminal defamation is rarely used against journalists.
 
 #### Notable Cases
-- **Wirecard scandal (2020).** Financial fraud at Wirecard AG, exposed by Financial Times (Dan McCrum) using OSINT on Asian phantom operations. Correctiv contributed with follow-up investigations. URLs: https://en.wikipedia.org/wiki/Wirecard_scandal · https://correctiv.org/en/latest-stories/wirecard/
+- **Wirecard scandal (2020).** Financial fraud at Wirecard AG, exposed by Financial Times (Dan McCrum) using OSINT on Asian phantom operations. Correctiv contributed with follow-up investigations. URLs: https://en.wikipedia.org/wiki/Wirecard_scandal
 - **Cum-Ex Files (2018).** Cross-border tax fraud scheme exposed by Correctiv and partners. URL: https://correctiv.org/en/thema/latest-stories/cumex-files-en/
 - **NSU (National Socialist Underground, 2011).** Neo-Nazi terror cell; investigation heavily criticised for intelligence failures.
 
@@ -2652,10 +2652,10 @@ Internet penetration ~85% (ARCEP 2024). Google dominates search; Qwant is the Fr
 - **External intelligence agency:** Direction Générale de la Sécurité Extérieure (**DGSE**) — https://www.dgse.gouv.fr ✅
 - **Internal intelligence agency:** Direction Générale de la Sécurité Intérieure (**DGSI**) — https://www.dgsi.gouv.fr
 - **Military intelligence:** Direction du Renseignement et de la Sécurité de la Défense (**DRSD**) and Direction du Renseignement Militaire (**DRM**).
-- **OSINT unit / tradecraft:** No publicly named OSINT directorate. DGSE and DGSI acknowledge OSINT as part of their collection disciplines in annual public reports to Parliament (https://www.assemblee-nationale.fr/dyn/15/rapplets).
+- **OSINT unit / tradecraft:** No publicly named OSINT directorate. DGSE and DGSI acknowledge OSINT as part of their collection disciplines in annual public reports to Parliament (https://www2.assemblee-nationale.fr/documents/liste?type=rapports-information).
 - **Publicly verifiable tradecraft points:**
   - **Loi 2015-1556** (anti-terrorist intelligence law) — https://www.legifrance.gouv.fr/eli/loi/2015/11/30/DEFX1414385L/jo/texte — explicitly regulates OSINT collection by French intelligence.
-  - **CNCTR** (Commission Nationale de Contrôle des Techniques de Renseignement) — https://www.cncctr.fr — public oversight reports on intelligence techniques including OSINT.
+  - **CNCTR** (Commission Nationale de Contrôle des Techniques de Renseignement) — public oversight reports on intelligence techniques including OSINT.
 - **What is NOT verified:** "DGSE runs suitcase nuclear devices" — this is fiction (referenced in films like *La French*) and not attributable.
 
 #### Government Sources (Verified URLs)
@@ -2680,7 +2680,7 @@ Internet penetration ~85% (ARCEP 2024). Google dominates search; Qwant is the Fr
 - **BODACC** — official bulletin of civil and commercial announcements.
 - **Légifrance** — official legal database (laws, decrees, jurisprudence).
 - **data.gouv.fr** — French open data portal.
-- **INSEE Sirene database** — official business directory (https://www.sirene.fr).
+- **INSEE Sirene database** — official business directory (https://annuaire-entreprises.data.gouv.fr).
 
 #### Legal Considerations
 - **Data protection:** GDPR + Loi Informatique et Libertés (1978, modified 2018). Regulated by CNIL (https://www.cnil.fr/en ✅).
@@ -2691,7 +2691,7 @@ Internet penetration ~85% (ARCEP 2024). Google dominates search; Qwant is the Fr
 
 #### Notable Cases
 - **Cahuzac case (2013).** Budget Minister Jérôme Cahuzac was exposed for hiding money in Swiss bank accounts. Investigation led by Mediapart (Fabrice Arfi). URL: https://en.wikipedia.org/wiki/Jérôme_Cahuzac
-- **CatalanGate (2022).** Citizen Lab investigation into Pegasus spyware infections of Catalan politicians and civil society. URL: https://citizenlab.ca/2022/04/catalangate/
+- **CatalanGate (2022).** Citizen Lab investigation into Pegasus spyware infections of Catalan politicians and civil society. URL: https://citizenlab.ca/research/catalangate-extensive-mercenary-spyware-operation-against-catalans-using-pegasus-candiru/
 - **Panama Papers / Pandora Papers** — French persons featured prominently; ICIJ investigations.
 
 </details>
@@ -2715,10 +2715,10 @@ Internet penetration ~93% (ONTSI 2024). Google dominates search. WhatsApp is the
 
 | Source | URL | Function | Status |
 |---|---|---|---|
-| BORME (Boletín Oficial del Registro Mercantil) | https://www.boe.es/datosabiertos/borme | Commercial registry bulletin | ✅ 200 |
+| BORME (Boletín Oficial del Registro Mercantil) | https://www.boe.es/diario_borme/ | Commercial registry bulletin | ✅ 200 |
 | BOE (Boletín Oficial del Estado) | https://www.boe.es | State official gazette | ✅ 200 |
 | datos.gob.es | https://datos.gob.es/en | Spanish open data portal | ✅ 200 |
-| Registro Mercantil Central | https://www.rmcerranet.es | Central commercial registry | ⚠️ requires login |
+| Registro Mercantil Central | https://www.registradores.org | Central commercial registry | ✅ 200 |
 | AEPD | https://www.aepd.es | Data protection authority | ✅ 200 |
 | Congress of Deputies | https://www.congreso.es | Parliamentary records | ✅ 200 |
 
@@ -2741,7 +2741,7 @@ Internet penetration ~93% (ONTSI 2024). Google dominates search. WhatsApp is the
 - **SLAPP risk:** Criminal defamation suits are used against journalists.
 
 #### Notable Cases
-- **CatalanGate (2022).** Citizen Lab investigation documented Pegasus infections of 65+ Catalan politicians, civil society members, and European MPs. URL: https://citizenlab.ca/2022/04/catalangate/
+- **CatalanGate (2022).** Citizen Lab investigation documented Pegasus infections of 65+ Catalan politicians, civil society members, and European MPs. URL: https://citizenlab.ca/research/catalangate-extensive-mercenary-spyware-operation-against-catalans-using-pegasus-candiru/
 - **Pandora Papers (2021)** — Spanish political figures exposed.
 
 </details>
@@ -2862,7 +2862,7 @@ Internet penetration ~88% (RUNet 2024). Yandex dominates search (~65% market sha
 - **Publicly verifiable tradecraft points:**
   - **CSIS Russia Shadow War analysis** — https://www.csis.org/analysis/russias-shadow-war-against-west ✅ — documents Russian intelligence tradecraft including OSINT use.
   - **CheckFirst investigation on GRU Information Operations Troops** — https://checkfirst.network/unveiling-grus-information-operations-troops-with-osint-and-medals — uses OSINT to map GRU units through medal analysis.
-  - **Bellingcat Russia investigations** — https://www.bellingcat.com/category/regions/europe/russia/ — multiple investigations using Russian probiv databases.
+  - **Bellingcat Russia investigations** — https://www.bellingcat.com/tag/russia/ — multiple investigations using Russian probiv databases.
 - **What is NOT verified (myth-busting):**
   - "Every Russian troll is GRU" — many influence operations are conducted by private actors (IRA, Prigozhin's networks) with loose state coordination.
   - "Russian intelligence has perfect access to all Russian data" — Russian investigators also use grey-market probiv bots, suggesting they don't have direct access to all databases.
@@ -2883,7 +2883,7 @@ Internet penetration ~88% (RUNet 2024). Yandex dominates search (~65% market sha
 - **OSINT community:** Russian-speaking OSINT community on Telegram (pro-Ukrainian investigative channels: InformNapalm, Cyber Resistance,.peacekeeper).
 
 #### Country-Specific OSINT Tools
-- **RuPEP** (Russian Political Exposed Persons) — https://rupep.ru ⚠️ Timeout — database of Russian elites and PEPs.
+- **RuPEP** (Russian Political Exposed Persons) — https://rupep.org/en ⚠️ Timeout — database of Russian elites and PEPs.
 - **Meduza** — independent Russian-language news.
 - **Agentstvo** — investigative journalism.
 - **InformNapalm** — OSINT community documenting Russian military actions.
@@ -2947,7 +2947,7 @@ Internet penetration ~80% (early 2024). Google dominates search. Telegram is the
 - **OPSEC:** Investigators operating in or on Ukraine during wartime should follow Ukrainian government OSINT guidelines to avoid compromising military operations.
 
 #### Notable Cases
-- **Bucha investigation (2022).** Bellingcat and NYT used satellite imagery (Maxar) to confirm that civilian bodies were on Yablunska Street during Russian occupation. URLs: https://www.bellingcat.com/news/uk-and-europe/2022/05/23/bucha-cleaning-up-the-streets-and-the-evidence/ · https://www.nytimes.com/2022/04/04/world/europe/bucha-ukraine-bodies.html
+- **Bucha investigation (2022).** Bellingcat and NYT used satellite imagery (Maxar) to confirm that civilian bodies were on Yablunska Street during Russian occupation. URLs: https://www.bellingcat.com/news/2022/04/04/russias-bucha-facts-versus-the-evidence/ · https://www.nytimes.com/2022/04/04/world/europe/bucha-ukraine-bodies.html
 - **MH17 (2014).** Joint investigation with Bellingcat using OSINT on Russian military equipment crossing the border.
 
 </details>
@@ -2980,7 +2980,7 @@ Internet penetration ~73% (1.05 billion users, CNNIC 2024). The Great Firewall b
 | gov.cn | https://www.gov.cn | Central government portal | ✅ 200 |
 | Shanghai Stock Exchange | https://www.sse.com.cn | Stock exchange filings | ⚠️ Timeout |
 | Shenzhen Stock Exchange | https://www.szse.cn | Stock exchange filings | ⚠️ Timeout |
-| China Court | https://www.chinacourt.org | Court judgments (limited) | ⚠️ Timeout |
+| China Court | https://www.chinacourt.cn/index.shtml | Court judgments (limited) | ✅ 200 |
 
 **Note:** Most Chinese government portals are slow or block foreign IPs. Use China-based VPN (legality varies) or third-party commercial aggregators like Sayari, Sayari Graph, or ChinаFAQs.
 
@@ -2993,7 +2993,7 @@ Internet penetration ~73% (1.05 billion users, CNNIC 2024). The Great Firewall b
 #### Country-Specific OSINT Tools
 - **National Enterprise Credit Information Publicity System (gsxt.gov.cn)** — official business registry (requires China-based access).
 - **ASPI Xinjiang Data Project** — https://xjdp.aspi.org.au — database of detention camps.
-- **ChinaFile Documentary Center** — https://www.chinafile.com/documentary-center — leaked documents and reports.
+- **ChinaFile Documentary Center** — https://www.chinafile.com/library — leaked documents and reports.
 - **China Digital Times** — https://chinadigitaltimes.net — censored content archive.
 - **Sayari Graph** (commercial) — corporate network analysis with strong China coverage.
 - **Shahit.biz** (Xinjiang Victims Database) — https://shahit.biz/eng/ ✅ — database of detained Uyghurs and other minorities.
@@ -3025,7 +3025,7 @@ Internet penetration <1% of the population. The country uses **Kwangmyong**, a c
 - **OSINT unit / tradecraft:** DPRK uses OSINT for foreign intelligence collection, primarily through Bureau 35 (foreign intelligence gathering).
 - **Publicly verifiable tradecraft points:**
   - **HRNK report on RGB** — https://www.hrnk.org/documentations/the-reconnaissance-general-bureau-the-kim-regimes-precious-treasured-sword — documents RGB structure and operations.
-  - **38 North OSINT interview** — https://www.38north.org/2024/12/open-source-intelligence-and-north-korea-an-interview-with-uk-air-vice-marshal-ret-sean-corbetten — interview on OSINT use for DPRK monitoring.
+  - **38 North OSINT interview** — https://www.38north.org/2024/12/open-source-intelligence-and-north-korea-an-interview-with-uk-air-vice-marshal-ret-sean-corbett/ — interview on OSINT use for DPRK monitoring.
 - **Korea Herald on RGB expansion** — https://www.koreaherald.com/article/10805054.
 
 ##### Government Sources (Verified URLs)
@@ -3058,7 +3058,7 @@ North Korea has no publicly accessible government databases. All OSINT on DPRK u
 ##### Notable Cases
 - **Sony Pictures hack (2014).** FBI attributed to North Korea's Bureau 121 (Lazarus Group). URL: https://www.fbi.gov/news/pressrel/press-releases/update-on-sony-investigation
 - **WannaCry ransomware (2017).** Attributed to Lazarus Group by Google, Microsoft, and US government.
-- **DPRK IT worker fraud (2024-2025).** DOJ indictments of DPRK IT workers using fake identities to obtain remote work at US companies. URL: https://www.fbi.gov/wanted/cyber/overview-of-dprk-it-worker-fraud-schemes
+- **DPRK IT worker fraud (2024-2025).** DOJ indictments of DPRK IT workers using fake identities to obtain remote work at US companies. URL: https://www.fbi.gov/wanted/cyber/fraudulent-remote-it-workers-from-dprk
 
 ---
 
@@ -3068,7 +3068,7 @@ North Korea has no publicly accessible government databases. All OSINT on DPRK u
 Internet penetration ~98% (KISA 2024). **Naver** (~70% market share) and **Daum/Kakao** dominate search over Google. **KakaoTalk** is the universal messaging app (~95% of smartphone users). X, Instagram, YouTube, Facebook are the main social platforms. South Korea has one of the world's most advanced OSINT ecosystems.
 
 ##### Intelligence Agency & OSINT Tradecraft
-- **Main agency:** National Intelligence Service (**NIS**) — https://www.nis.go.kr/ENG/main/main.do (URL returned 404 in our verification; official NIS site is at https://www.nis.go.kr, mostly Korean-language).
+- **Main agency:** National Intelligence Service (**NIS**) — https://eng.nis.go.kr/ (English site; the official site https://www.nis.go.kr is mostly Korean-language).
 - **Defence intelligence:** Defence Intelligence Agency (국군정보사령부, KDIA).
 - **OSINT unit / tradecraft:** NIS acknowledges OSINT collection; the public *NIS Act* regulates intelligence activity. The South Korean government has a sophisticated OSINT capability focused on DPRK monitoring.
 - **Publicly verifiable tradecraft points:**
@@ -3116,7 +3116,7 @@ Internet penetration ~93% (MIC 2024). Google (~75%) and Yahoo! Japan (~25%) domi
 
 #### Intelligence Agency & OSINT Tradecraft
 - **Cabinet Intelligence and Research Office (CIRO)** — https://www.cas.go.jp/jp/gaiyou/jimu/jyouhoutyousa/en/index.html ✅ — Japan's primary intelligence coordinating body.
-- **Public Security Intelligence Agency (PSIA)** — https://www.moj.go.jp/ENGLISH/information/psia.html (URL returned 404 in our verification; the actual PSIA English page is at https://www.moj.go.jp/psia/).
+- **Public Security Intelligence Agency (PSIA)** — https://www.moj.go.jp/psia/.
 - **Defence intelligence:** Defence Intelligence Headquarters (DIH / 調査部).
 - **NEW: Japan announced in July 2026 the creation of its first centralised intelligence agency** — https://www.aljazeera.com/news/2026/7/13/what-is-japans-new-intelligence-agency-and-why-is-tokyo-building-it
 - **OSINT unit / tradecraft:** CIRO has an OSINT section. Japan's intelligence apparatus is being re-engineered (https://thediplomat.com/2026/06/japan-is-re-engineering-its-intelligence-apparatus).
@@ -3129,7 +3129,7 @@ Internet penetration ~93% (MIC 2024). Google (~75%) and Yahoo! Japan (~25%) domi
 | Source | URL | Function | Status |
 |---|---|---|---|
 | National Tax Agency | https://www.nta.go.jp/english | Tax authority | ⚠️ 403, live in browser |
-| corporate.no.jp | https://houmu-bunshou.com | Corporate registry (commercial) | ⚠️ Timeout |
+| Houjin Bangou (NTA) | https://www.houjin-bangou.nta.go.jp/ | Corporate registry (official) | ✅ 200 |
 | e-Gov Japan | https://www.e-gov.go.jp | Legal portal | ✅ 200 |
 | e-Stat | https://www.e-stat.go.jp | Statistics portal | ✅ 200 |
 |Japan Patent Office | https://www.jpo.go.jp | Patent registry | ✅ 200 |
@@ -3177,7 +3177,7 @@ Internet penetration ~90% (Central Bureau of Statistics 2024). Google dominates 
 - **OSINT unit / tradecraft:** Israel does not publicly detail OSINT directorates. Unit 8200 is widely understood to have sophisticated OSINT capabilities alongside SIGINT, but specific tradecraft is classified.
 - **Publicly verifiable tradecraft points:**
   - Israel's intelligence community is the subject of extensive academic and journalistic coverage (Ronen Bergman's *Rise and Kill First*, 2018 — public source).
-  - **Bellingcat Israel/Palestine investigations** — https://www.bellingcat.com/category/regions/mena/israel-palestine/ — demonstrate OSINT methodology applied to the region.
+  - **Bellingcat Israel/Palestine investigations** — https://www.bellingcat.com/tag/middle-east/ — demonstrate OSINT methodology applied to the region.
 - **What is NOT verified (myth-busting):**
   - "Mossad taught the CIA everything" — this is myth; both agencies developed independently with periods of cooperation and competition.
   - "Unit 8200 produces all cybersecurity CEOs" — many Israeli cybersecurity founders are Unit 8200 alumni, but this is correlation not causation; many non-alumni are also successful.
@@ -3216,7 +3216,7 @@ Internet penetration ~90% (Central Bureau of Statistics 2024). Google dominates 
 - **OPSEC:** Israel is an active conflict zone; investigators should follow government safety guidelines.
 
 #### Notable Cases
-- **Bellingcat Israel/Palestine investigations** — multiple OSINT investigations into specific incidents in the Israel-Palestine conflict. URL: https://www.bellingcat.com/category/regions/mena/israel-palestine/
+- **Bellingcat Israel/Palestine investigations** — multiple OSINT investigations into specific incidents in the Israel-Palestine conflict. URL: https://www.bellingcat.com/tag/middle-east/
 - **Pegasus Project (2021)** — Forbidden Stories and Amnesty International investigation into NSO Group's Pegasus spyware. URL: https://forbiddenstories.org/about-the-pegasus-project/
 
 </details>
@@ -3228,7 +3228,7 @@ Internet penetration ~90% (Central Bureau of Statistics 2024). Google dominates 
 Internet penetration ~84% (StatCounter 2024), but the internet is heavily filtered and slowed. Google, WhatsApp, Instagram and Telegram are the main platforms but are subject to frequent throttling and blocking. **Telegram** is the primary source of news for many Iranians (~50 million users pre-2022 blocking; many now use VPN). Domestic platforms include **Eitaa**, **Bale**, and **Soroush** (state-promoted alternatives). The 2022 Mahsa Amini protests saw near-total internet blackouts.
 
 #### Intelligence Agency & OSINT Tradecraft
-- **Civilian intelligence agency:** Ministry of Intelligence (**MOIS**, Vezarat-e Ettela'at) — https://www.mois.ir (intermittently accessible).
+- **Civilian intelligence agency:** Ministry of Intelligence (**MOIS**, Vezarat-e Ettela'at) — http://www.moi.ir (intermittently accessible).
 - **Revolutionary Guard intelligence:** IRGC Intelligence Organization (سازمان اطلاعات سپاه) — increasingly powerful; parallel to MOIS.
 - **Cyber operations:** IRGC Cyber Command conducts offensive cyber operations. Multiple APT groups attributed to Iran (APT33, APT34, APT35/Charming Kitten, APT39).
 - **OSINT unit / tradecraft:** Iran uses OSINT for targeting dissidents abroad and monitoring domestic opposition. The IRGC has been documented using OSINT to identify protesters from social media posts.
@@ -3250,7 +3250,7 @@ Internet penetration ~84% (StatCounter 2024), but the internet is heavily filter
 **Note:** Iranian government portals are intermittently accessible from outside Iran. Use Iranian diaspora sources for verification.
 
 #### Local Sources & Press
-- **Independent (in exile):** Iran International (https://iranintl.com ✅), Radio Farda (https://en.radiofarda.org), IranWire (https://iranwire.com), BBC Persian, Voice of America Persian.
+- **Independent (in exile):** Iran International (https://iranintl.com ✅), Radio Farda (https://www.radiofarda.com), IranWire (https://iranwire.com), BBC Persian, Voice of America Persian.
 - **Domestic (state-controlled):** IRNA, Tasnim, Fars News, ISNA.
 - **Investigative NGOs:** Center for Human Rights in Iran (CHRI, https://www.iranhumanrights.org), Iran Human Rights (IHR, https://iranhr.net).
 - **OSINT community:** Iran-discovery OSINT channels on Telegram, conflict OSINT communities.
@@ -3289,7 +3289,7 @@ Internet penetration ~99% (CITC 2024, one of the highest in the world). Google d
 - **OSINT unit / tradecraft:** GIP uses OSINT for monitoring domestic and regional opposition. Specific tradecraft is classified.
 - **Publicly verifiable tradecraft points:**
   - Saudi Arabia's use of Pegasus spyware (NSO Group) against dissidents is documented by Citizen Lab (https://citizenlab.ca/tag/saudi-arabia/).
-  - The 2018 Jamal Khashoggi assassination used OSINT to identify the Saudi hit team (Bellingcat investigation, https://www.bellingcat.com/news/mena/2018/10/24/the-mystery-of-the-first-saudi-hit-team-flight-to-istanbul/).
+  - The 2018 Jamal Khashoggi assassination used OSINT to identify the Saudi hit team (Bellingcat investigation, https://www.bellingcat.com/news/middle-east/2018/10/15/examining-cctv-videos-saudi-consulate-istanbul-connected-khashoggis-disappearance/).
 - **What is NOT verified:** Specific GIP tradecraft details are not publicly available.
 
 #### Government Sources (Verified URLs)
@@ -3322,7 +3322,7 @@ Internet penetration ~99% (CITC 2024, one of the highest in the world). Google d
 - **Defamation:** Criminal defamation with prison sentences; blasphemy punishable by death.
 
 #### Notable Cases
-- **Jamal Khashoggi assassination (2018).** Bellingcat identified the Saudi hit team through flight manifests and passport photos. URL: https://www.bellingcat.com/news/mena/2018/10/24/the-mystery-of-the-first-saudi-hit-team-flight-to-istanbul/
+- **Jamal Khashoggi assassination (2018).** Bellingcat identified the Saudi hit team through flight manifests and passport photos. URL: https://www.bellingcat.com/news/middle-east/2018/10/15/examining-cctv-videos-saudi-consulate-istanbul-connected-khashoggis-disappearance/
 - **Pegasus surveillance (2019-2024).** Citizen Lab documented Saudi use of Pegasus against dissidents. URL: https://citizenlab.ca/tag/saudi-arabia/
 
 </details>
@@ -3392,7 +3392,7 @@ Internet penetration ~91% (ABS 2024). Google dominates search. WhatsApp, iMessag
 - **Domestic security agency:** Australian Security Intelligence Organisation (**ASIO**) — https://www.asio.gov.au
 - **External intelligence agency:** Australian Secret Intelligence Service (**ASIS**) — https://www.asis.gov.au
 - **Signals intelligence:** Australian Signals Directorate (**ASD**) — https://www.asd.gov.au
-- **Intelligence coordination:** Office of National Intelligence (**ONI**) — https://www.ni.gov.au — includes the **Open Source Centre (OSC)** which coordinates OSINT across the Australian Intelligence Community.
+- **Intelligence coordination:** Office of National Intelligence (**ONI**) — https://www.oni.gov.au — includes the **Open Source Centre (OSC)** which coordinates OSINT across the Australian Intelligence Community.
 - **OSINT unit / tradecraft:** ONI's Open Source Centre is the publicly attributed Australian OSINT body. It was established in 2019 (modeled on CIA OSE).
 - **Publicly verifiable tradecraft points:**
   - **Intelligence Services Act 2001** — https://www.legislation.gov.au/Details/C2018C00384 — regulates Australian intelligence agencies including OSINT collection.
@@ -3403,7 +3403,7 @@ Internet penetration ~91% (ABS 2024). Google dominates search. WhatsApp, iMessag
 | Source | URL | Function | Status |
 |---|---|---|---|
 | ABN Lookup | https://abr.business.gov.au | Australian Business Register | ✅ 200 |
-| ASIC Connect | https://connectonline.asic.gov.au | Business registry | ✅ 200 |
+| ASIC company search | https://service.asic.gov.au/companysearch/ | Business registry | ✅ 200 |
 | data.gov.au | https://data.gov.au | Government open data | ✅ 200 |
 | Federal Register of Legislation | https://www.legislation.gov.au | Legislation database | ✅ 200 |
 | Australian Business Register | https://abr.business.gov.au | ABN lookup | ✅ 200 |
@@ -3416,7 +3416,7 @@ Internet penetration ~91% (ABS 2024). Google dominates search. WhatsApp, iMessag
 #### Country-Specific OSINT Tools
 - **ABN Lookup** — free business registry lookup.
 - **ASIC Connect** — corporate registry.
-- **Open Politics** — https://openpolitics.au/search — Australian political donations and interests.
+- **Open Politics** — https://openpolitics.au/ — Australian political donations and interests.
 - **Ryerson Index** — http://ryersonindex.org/search.php — death notices index.
 - **ASPI Xinjiang Data Project** — https://xjdp.aspi.org.au — Xinjiang detention camps database.
 
@@ -3525,7 +3525,7 @@ Internet penetration ~91% (ABS 2024). Google dominates search. WhatsApp, iMessag
 **Landmark public cases:**
 
 1. **DNC hack (2016).** CrowdStrike attributed the breach to FANCY BEAR (APT28) and COZY BEAR (APT29).
-2. **Fancy Bear Ukrainian artillery (2016).** https://www.crowdstrike.com/blog/bears-midst-intrusion-disclosure/
+2. **Fancy Bear Ukrainian artillery (2016).** https://en.wikipedia.org/wiki/Fancy_Bear
 3. **Global Threat Report (annual).** https://www.crowdstrike.com/en-us/global-threat-report/
 
 **Public 10-step attribution methodology:**
@@ -3544,7 +3544,7 @@ Internet penetration ~91% (ABS 2024). Google dominates search. WhatsApp, iMessag
 **Limitations:**
 - **Endpoint bias** — CrowdStrike's visibility is endpoint-centric; network-only attacks may be missed.
 - **Marketing of "Adversary Universe"** — branding on real process; the methodology is real but the public site is partly marketing.
-- **Naming complexity** — same actor = FANCY BEAR / APT28 / Forest Blizzard / Strontium / Sofacy / Pawn Storm / Sednit. The 2025 Microsoft-CrowdStrike shared glossary (https://www.crowdstrike.com/blog/crowdstrike-microsoft-naming-glossary/) is an attempt to harmonise.
+- **Naming complexity** — same actor = FANCY BEAR / APT28 / Forest Blizzard / Strontium / Sofacy / Pawn Storm / Sednit. The 2025 Microsoft-CrowdStrike shared glossary (https://learn.microsoft.com/en-us/unified-secops/microsoft-threat-actor-naming) is an attempt to harmonise.
 
 #### Recorded Future
 
@@ -3610,8 +3610,8 @@ Internet penetration ~91% (ABS 2024). Google dominates search. WhatsApp, iMessag
 1. **SolarWinds / NOBELIUM / APT29 (2020-2021)** — MSTIC was the first to publicly name the actor.
 2. **Volt Typhoon (2023)** — Chinese critical-infrastructure targeting disclosure.
 3. **Forest Blizzard / APT28 (2024)** — Russian military intelligence.
-4. **Microsoft Digital Defense Report 2024** — https://www.microsoft.com/en-us/security/business/microsoft-digital-defense-report-2024
-5. **MS-CrowdStrike shared naming glossary (2025)** — https://www.crowdstrike.com/blog/crowdstrike-microsoft-naming-glossary/
+4. **Microsoft Digital Defense Report 2024** — https://www.microsoft.com/en-us/security/security-insider/threat-landscape/microsoft-digital-defense-report-2024
+5. **MS-CrowdStrike shared naming glossary (2025)** — https://learn.microsoft.com/en-us/unified-secops/microsoft-threat-actor-naming
 
 **Public 12-step workflow (reconstructed from MSTIC blog posts):**
 
@@ -3625,7 +3625,7 @@ Internet penetration ~91% (ABS 2024). Google dominates search. WhatsApp, iMessag
 8. **Update Defender detections** — push detection content to Defender for Endpoint customers.
 9. **Brief government partners** — CISA, NSA, FBI.
 10. **Publish Digital Defense Report** — annual public summary.
-11. **Update threat actor encyclopedia** — https://learn.microsoft.com/en-us/defender/threat-intelligence/.
+11. **Update threat actor encyclopedia** — https://learn.microsoft.com/en-us/unified-secops/microsoft-threat-actor-naming.
 12. **Re-evaluate periodically** — splits/merges as evidence accumulates.
 
 **Limitations:**
@@ -3638,8 +3638,8 @@ Internet penetration ~91% (ABS 2024). Google dominates search. WhatsApp, iMessag
 | Resource | URL |
 |---|---|
 | Microsoft Security blog | https://www.microsoft.com/en-us/security/blog |
-| Digital Defense Report 2024 | https://www.microsoft.com/en-us/security/business/microsoft-digital-defense-report-2024 |
-| MSTIC threat actor encyclopedia | https://learn.microsoft.com/en-us/defender/threat-intelligence/ |
+| Digital Defense Report 2024 | https://www.microsoft.com/en-us/security/security-insider/threat-landscape/microsoft-digital-defense-report-2024 |
+| MSTIC threat actor encyclopedia | https://learn.microsoft.com/en-us/unified-secops/microsoft-threat-actor-naming |
 | MSRC (Microsoft Security Response Center) | https://msrc.microsoft.com/ |
 
 #### Cisco Talos
@@ -3678,7 +3678,7 @@ Internet penetration ~91% (ABS 2024). Google dominates search. WhatsApp, iMessag
 | Resource | URL |
 |---|---|
 | Talos blog | https://blog.talosintelligence.com/ |
-| Talos Year in Review | https://blog.talosintelligence.com/year-in-review/ |
+| Talos Year in Review | https://blog.talosintelligence.com/2025-talos-year-in-review-speed-scale-and-staying-power/ |
 | Talos GitHub | https://github.com/Cisco-Talos |
 
 #### Kaspersky GReAT (Global Research & Analysis Team)
@@ -3690,7 +3690,7 @@ Internet penetration ~91% (ABS 2024). Google dominates search. WhatsApp, iMessag
 1. **Stuxnet (2010)** — analysis of the first cyber-physical weapon. https://securelist.com/stuxnet-zero-victims/67483/
 2. **Flame (2012)** — discovery of a sophisticated espionage toolkit. https://securelist.com/the-flame-questions-and-answers/34344/
 3. **Gauss (2012)** — discovery of nation-state banking malware. https://securelist.com/gauss-nation-state-cyber-espionage-banking-trojan/36620/
-4. **Equation Group (2015)** — Q&A PDF documenting the most sophisticated APT group yet discovered. https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/Equation_group_questions_and_answers.pdf
+4. **Equation Group (2015)** — Kaspersky technical investigation report documenting the most sophisticated APT group yet discovered. https://securelist.com/investigation-report-for-the-september-2014-equation-malware-detection-incident-in-the-us/83210/
 5. **Securelist RE workshop** — public training materials.
 
 **Public 12-step workflow (reconstructed from Securelist publications):**
@@ -3710,7 +3710,7 @@ Internet penetration ~91% (ABS 2024). Google dominates search. WhatsApp, iMessag
 
 **Limitations & controversies:**
 
-- **US bans (2017 + 2024):** DHS banned Kaspersky products from US federal networks in 2017 (BND 2017-138). BIS (Bureau of Industry and Security) extended the ban to all US consumer and commercial sales in 2024. URL: https://www.bis.doc.gov/index.php/documents/bis-newsroom/press-releases/2024-kaspersky-lab-final-determination-62624/file.
+- **US bans (2017 + 2024):** DHS banned Kaspersky products from US federal networks in 2017 (BND 2017-138). BIS (Bureau of Industry and Security) extended the ban to all US consumer and commercial sales in 2024. URL: https://en.wikipedia.org/wiki/Kaspersky_Lab.
 - **Kaspersky's denial:** Company has consistently denied improper ties to Russian intelligence. NPR interview: https://www.npr.org/2024/06/20/nx-s1-5013739/biden-administration-bans-kaspersky-lab-antivirus-software-citing-russian-ties
 - **Global Transparency Initiative (GTI):** Kaspersky launched the GTI in 2018 to address trust concerns: moved data processing to Zurich (2018), opened Transparency Centers in multiple countries (https://gti.kaspersky.com). URL: https://www.kaspersky.com/transparency-center
 - **Bias check:** Despite governance concerns, Kaspersky's *technical* research quality is widely respected. Mandiant, CrowdStrike and other Western vendors continue to cite Kaspersky research in their own publications. The technical research and the governance/jurisdiction risk are separate issues — investigators should evaluate the technical content on its merits while being aware of the geopolitical context.
